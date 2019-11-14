@@ -1,0 +1,3 @@
+module.exports = {
+    apiKey: 'BQDu-e_8TmL8Z50JQvJIJNpRS-onwzGAq0xz0soNelIknGskGVGyAr2jXUhZzrxrlq-xpqGoD7Ylh7zMkxt1NDaUnSXdt60x8HNO0dLhjgLqgmBV3r6iITSStpCDjkmJn9EYWplLk0WMqNix-5gk40Wopl0WwtCg2YVEj6t02Y-w21ug2BK-JBHwqFQy4M3sOMnsGRFyE3-k0U-c2NvNSm-0KufIrOZWXhmeW-quKX6p-9eMr8IXyh-3W5pthtqDJQLDBbvFDPZlFAbvpcjaLwAFqzFrSA',
+};

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "alignSelf": "stretch",
+      "marginTop": 20,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#5D81A3",
+        "fontSize": 25,
+        "textAlign": "center",
+      }
+    }
+  >
+    TestName
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "borderColor": "#5D81A3",
+        "borderRadius": 15,
+        "borderWidth": 2,
+        "justifyContent": "center",
+        "marginTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#5D81A3",
+          "fontSize": 25,
+          "textAlign": "center",
+        }
+      }
+    >
+      TestValue
+    </Text>
+  </View>
+</View>
+`;
