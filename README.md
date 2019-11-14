@@ -1,3 +1,5 @@
+Change Shopify Web api key which is located component/global.js.
+
 ## How to Run
 
 `npm install`
